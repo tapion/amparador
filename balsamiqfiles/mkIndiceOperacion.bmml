@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1407" measuredH="220" mockupW="1396" mockupH="217">
+  <controls>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::List" x="94" y="46" w="142" h="174" measuredW="100" measuredH="126" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <hasHeader>false</hasHeader>
+        <hrefs>mkIndiceOperacionActividades%26bm%3BmkIndiceOperacionActividades.bmml%26bm%3BmkIndiceOperacionActividades.bmml%26bm%3BmkIndiceOperacionActividades.bmml%2CmockupsCuentas%26bm%3BmockupsCuentas.bmml%26bm%3BmockupsCuentas.bmml%26bm%3BmockupsCuentas.bmml%2Cdocumentos%26bm%3Bdocumentos.bmml%26bm%3Bdocumentos.bmml%26bm%3Bdocumentos.bmml%2CmockupOportunidades%26bm%3BmockupOportunidades.bmml%26bm%3BmockupOportunidades.bmml%26bm%3BmockupOportunidades.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C46%2C225%2C66%22%20href%3D%22mkIndiceOperacionActividades.bmml%22%20alt%3D%22mkIndiceOperacionActividades%22%20id%3D%2279%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C66%2C225%2C86%22%20href%3D%22mockupsCuentas.bmml%22%20alt%3D%22mockupsCuentas%22%20id%3D%2279%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C86%2C225%2C106%22%20href%3D%22documentos.bmml%22%20alt%3D%22documentos%22%20id%3D%2279%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2283%2C106%2C225%2C126%22%20href%3D%22mockupOportunidades.bmml%22%20alt%3D%22mockupOportunidades%22%20id%3D%2279%22/%3E</map>
+        <rowHeight>20</rowHeight>
+        <text>Actividades%0ACuentas%0ADocumentos%0AOportunidades</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="11" y="41" w="1396" h="34" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="17" y="46" w="-1" h="-1" measuredW="77" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <text>Operaci%F3n%2C%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="__group__" x="11" y="3" w="1396" h="37" measuredW="1396" measuredH="37" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1396" h="37" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="88">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>14540253</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LinkBar" x="83" y="9" w="-1" h="-1" measuredW="251" measuredH="19" zOrder="1" locked="false" isInGroup="88">
+          <controlProperties>
+            <hrefs>%2C%2C%2CmkIndiceAgencia%26bm%3BmkIndiceAgencia.bmml%26bm%3BmkIndiceAgencia.bmml%26bm%3BmkIndiceAgencia.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22285%2C11%2C334%2C24%22%20href%3D%22mkIndiceAgencia.bmml%22%20alt%3D%22mkIndiceAgencia%22%20id%3D%221%22/%3E</map>
+            <text>Home%2C%20Products%2C%20Operaci%F3n%2C%20Agencia</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="6" y="4" w="65" h="29" measuredW="108" measuredH="80" zOrder="2" locked="false" isInGroup="88">
+          <controlProperties>
+            <src>./imagenes/amparandoLogo108x80.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="1337" y="7" w="18" h="23" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="88">
+          <controlProperties>
+            <borderColor>14540253</borderColor>
+            <color>14540253</color>
+            <icon>ContactIcon%7Csmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="1363" y="6" w="25" h="24" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="88">
+          <controlProperties>
+            <borderColor>14540253</borderColor>
+            <color>14540253</color>
+            <icon>PowerIcon%7Csmall</icon>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,179 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1407" measuredH="197" mockupW="1396" mockupH="194">
+  <controls>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Canvas" x="11" y="3" w="1396" h="37" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::LinkBar" x="94" y="12" w="-1" h="-1" measuredW="246" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2CmkIndiceAgencia%26bm%3BmkIndiceAgencia.bmml%26bm%3BmkIndiceAgencia.bmml%26bm%3BmkIndiceAgencia.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22280%2C11%2C329%2C24%22%20href%3D%22mkIndiceAgencia.bmml%22%20alt%3D%22mkIndiceAgencia%22%20id%3D%2287%22/%3E</map>
+        <text>Home%2C%20Products%2C%20Company%2C%20Agencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::RoundButton" x="1348" y="10" w="18" h="23" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <color>14540253</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::RoundButton" x="1374" y="9" w="25" h="24" measuredW="32" measuredH="32" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+        <color>14540253</color>
+        <icon>PowerIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Canvas" x="11" y="41" w="1396" h="34" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="17" y="46" w="-1" h="-1" measuredW="111" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>mkIndiceAgencia%26bm%3BmkIndiceAgencia.bmml%26bm%3BmkIndiceAgencia.bmml%26bm%3BmkIndiceAgencia.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%226%2C48.5%2C59%2C61.5%22%20href%3D%22mkIndiceAgencia.bmml%22%20alt%3D%22mkIndiceAgencia%22%20id%3D%2291%22/%3E</map>
+        <text>Agencia%2C%20Entidad</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Image" x="20" y="7" w="65" h="29" measuredW="108" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./imagenes/amparandoLogo108x80.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="93" controlTypeID="__group__" x="1171" y="115" w="228" h="66" measuredW="228" measuredH="66" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="92" h="-1" measuredW="88" measuredH="27" zOrder="0" locked="false" isInGroup="93">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>40463</color>
+            <direction>center</direction>
+            <icon>SaveIcon%7Cxsmall</icon>
+            <newLayout>true</newLayout>
+            <text>Guardar</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Link" x="117" y="22" w="-1" h="-1" measuredW="111" measuredH="19" zOrder="1" locked="false" isInGroup="93">
+          <controlProperties>
+            <text>Limpiar%20o%20cancelar</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="39" w="92" h="-1" measuredW="75" measuredH="27" zOrder="2" locked="false" isInGroup="93">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>2848996</color>
+            <direction>center</direction>
+            <icon>PencilIcon%7Cxsmall</icon>
+            <newLayout>true</newLayout>
+            <text>Editar</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="123" y="88" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::TextInput" x="123" y="109" w="136" h="-1" measuredW="81" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Amparando</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Label" x="17" y="88" w="-1" h="-1" measuredW="17" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nit</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::TextInput" x="17" y="109" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>283790384</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="283" y="88" w="33" h="-1" measuredW="25" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PBX</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::TextInput" x="283" y="109" w="-1" h="-1" measuredW="146" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2345678%20-%20312312312</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="770" y="88" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::TextInput" x="770" y="106" w="129" h="-1" measuredW="126" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>www.amparando.co</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="1024" y="88" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Facebook</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::TextInput" x="1024" y="106" w="99" h="-1" measuredW="92" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>amparandofb</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="914" y="88" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>twitter</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::TextInput" x="914" y="106" w="-1" h="-1" measuredW="92" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>@amparando</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Label" x="455" y="88" w="-1" h="-1" measuredW="32" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::TextInput" x="455" y="106" w="175" h="-1" measuredW="170" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>contacto@amparando.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Label" x="664" y="88" w="106" h="-1" measuredW="99" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Niveles%20comisi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::TextInput" x="664" y="106" w="70" h="-1" measuredW="22" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::TextInput" x="18" y="170" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>logoAmparando.jpg</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Label" x="17" y="151" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::PointyButton" x="147" y="170" w="-1" h="-1" measuredW="72" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <text>Cargar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
